@@ -1,2 +1,2 @@
 # python-demos
-Ejercicios y demos de python
+Demos y Ejercicios de Python
